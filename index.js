@@ -1,2 +1,2 @@
-function theBeatlesPlay(musicians, instruments)
+function theBeatlesPlay()
 
